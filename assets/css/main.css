@@ -2705,29 +2705,55 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
-			}
 
-			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
-			}
+				/* .tiles article.style1 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style2 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style3 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style4 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style5 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style6 > .image:before {
+					background-color: transparent;
+				} */
 
-			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
-			}
 
-			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
-			}
-
-			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
-			}
-
-			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
-			}
+				.tiles article.style1 > .image:before {
+					background-color: #f2849e;
+				}
+	
+				.tiles article.style2 > .image:before {
+					background-color: #7ecaf6;
+				}
+	
+				.tiles article.style3 > .image:before {
+					background-color: #7bd0c1;
+				}
+	
+				.tiles article.style4 > .image:before {
+					background-color: #c75b9b;
+				}
+	
+				.tiles article.style5 > .image:before {
+					background-color: #ae85ca;
+				}
+	
+				.tiles article.style6 > .image:before {
+					background-color: #8499e7;
+				}
 
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
@@ -2773,23 +2799,36 @@ input, select, textarea {
 				margin: -1.25em 0 0 -1.25em;
 			}
 
-				.tiles article {
+				/* .tiles article {
 					width: calc(33.33333% - 1.25em);
 					margin: 1.25em 0 0 1.25em;
 				}
 
-		}
-
-		@media screen and (max-width: 980px) {
-
-			.tiles {
-				margin: -2.5em 0 0 -2.5em;
-			}
-
-				.tiles article {
-					width: calc(50% - 2.5em);
-					margin: 2.5em 0 0 2.5em;
+				.tiles article.style1 > .image:before {
+					background-color: #f2849e;
 				}
+	
+				.tiles article.style2 > .image:before {
+					background-color: #7ecaf6;
+				}
+	
+				.tiles article.style3 > .image:before {
+					background-color: #7bd0c1;
+				}
+	
+				.tiles article.style4 > .image:before {
+					background-color: #c75b9b;
+				}
+	
+				.tiles article.style5 > .image:before {
+					background-color: #ae85ca;
+				}
+	
+				.tiles article.style6 > .image:before {
+					background-color: #8499e7;
+				} */
+
+
 
 				.tiles article.style1 > .image:before {
 					background-color: transparent;
@@ -2813,6 +2852,19 @@ input, select, textarea {
 	
 				.tiles article.style6 > .image:before {
 					background-color: transparent;
+				}
+
+		}
+
+		@media screen and (max-width: 980px) {
+
+			.tiles {
+				margin: -2.5em 0 0 -2.5em;
+			}
+
+				.tiles article {
+					width: calc(50% - 2.5em);
+					margin: 2.5em 0 0 2.5em;
 				}
 
 		}
@@ -2835,30 +2887,6 @@ input, select, textarea {
 						transform: scale(1.0);
 					}
 
-					.tiles article.style1 > .image:before {
-						background-color: transparent;
-					}
-		
-					.tiles article.style2 > .image:before {
-						background-color: transparent;
-					}
-		
-					.tiles article.style3 > .image:before {
-						background-color: transparent;
-					}
-		
-					.tiles article.style4 > .image:before {
-						background-color: transparent;
-					}
-		
-					.tiles article.style5 > .image:before {
-						background-color: transparent;
-					}
-		
-					.tiles article.style6 > .image:before {
-						background-color: transparent;
-					}
-
 		}
 
 		@media screen and (max-width: 480px) {
@@ -2870,30 +2898,6 @@ input, select, textarea {
 				.tiles article {
 					width: 100%;
 					margin: 1.25em 0 0 0;
-				}
-
-				.tiles article.style1 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style2 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style3 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style4 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style5 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style6 > .image:before {
-					background-color: transparent;
 				}
 
 		}
