@@ -2791,6 +2791,30 @@ input, select, textarea {
 					margin: 2.5em 0 0 2.5em;
 				}
 
+				.tiles article.style1 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style2 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style3 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style4 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style5 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style6 > .image:before {
+					background-color: transparent;
+				}
+
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2811,6 +2835,30 @@ input, select, textarea {
 						transform: scale(1.0);
 					}
 
+					.tiles article.style1 > .image:before {
+						background-color: transparent;
+					}
+		
+					.tiles article.style2 > .image:before {
+						background-color: transparent;
+					}
+		
+					.tiles article.style3 > .image:before {
+						background-color: transparent;
+					}
+		
+					.tiles article.style4 > .image:before {
+						background-color: transparent;
+					}
+		
+					.tiles article.style5 > .image:before {
+						background-color: transparent;
+					}
+		
+					.tiles article.style6 > .image:before {
+						background-color: transparent;
+					}
+
 		}
 
 		@media screen and (max-width: 480px) {
@@ -2822,6 +2870,30 @@ input, select, textarea {
 				.tiles article {
 					width: 100%;
 					margin: 1.25em 0 0 0;
+				}
+
+				.tiles article.style1 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style2 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style3 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style4 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style5 > .image:before {
+					background-color: transparent;
+				}
+	
+				.tiles article.style6 > .image:before {
+					background-color: transparent;
 				}
 
 		}
