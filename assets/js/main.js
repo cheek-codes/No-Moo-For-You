@@ -183,3 +183,26 @@
 			});
 
 })(jQuery);
+
+
+
+
+
+
+
+
+// document.querySelector("button").addEventListener("click", getFetch)
+
+// function getFetch(){
+//     const url = `https://api.spoonacular.com/recipes/random?apiKey=651eab68b2284e039a531050205d9f58&intolerance=dairy`
+
+//     fetch(url)
+//         .then(res => res.json())
+//         .then(data => {
+//             console.log(data)
+
+//         })
+//         .catch(err => {
+//             console.log(`error ${err}`)
+//         })
+// }
