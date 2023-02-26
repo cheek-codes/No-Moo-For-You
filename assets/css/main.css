@@ -3242,7 +3242,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		/* background-color: #f6f6f6; */
 	}
 
 		#footer > .inner {
@@ -3403,3 +3403,34 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+
+
+
+/* dark mode */
+
+.dark-mode *{
+    background: rgb(37, 37, 37);
+    color: white;
+}
+
+#toggle-mode {
+	cursor: pointer;
+}
+
+.dark-mode body {
+	background: #000;
+}
+
+.dark-mode body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+	-moz-animation: none !important;
+	-webkit-animation: none !important;
+	-ms-animation: none !important;
+	animation: none !important;
+	-moz-transition: none !important;
+	-webkit-transition: none !important;
+	-ms-transition: none !important;
+	transition: none !important;
+}
