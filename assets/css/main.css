@@ -2706,31 +2706,6 @@ input, select, textarea {
 					}
 
 
-				/* .tiles article.style1 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style2 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style3 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style4 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style5 > .image:before {
-					background-color: transparent;
-				}
-	
-				.tiles article.style6 > .image:before {
-					background-color: transparent;
-				} */
-
-
 				.tiles article.style1 > .image:before {
 					background-color: #f2849e;
 				}
@@ -2804,35 +2779,10 @@ input, select, textarea {
 				margin: -1.25em 0 0 -1.25em;
 			}
 
-				/* .tiles article {
+				.tiles article {
 					width: calc(33.33333% - 1.25em);
 					margin: 1.25em 0 0 1.25em;
 				}
-
-				.tiles article.style1 > .image:before {
-					background-color: #f2849e;
-				}
-	
-				.tiles article.style2 > .image:before {
-					background-color: #7ecaf6;
-				}
-	
-				.tiles article.style3 > .image:before {
-					background-color: #7bd0c1;
-				}
-	
-				.tiles article.style4 > .image:before {
-					background-color: #c75b9b;
-				}
-	
-				.tiles article.style5 > .image:before {
-					background-color: #ae85ca;
-				}
-	
-				.tiles article.style6 > .image:before {
-					background-color: #8499e7;
-				} */
-
 
 
 				.tiles article.style1 > .image:before {
