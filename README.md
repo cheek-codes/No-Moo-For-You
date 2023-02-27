@@ -1,4 +1,4 @@
-# No Moo For You : [check it out](nomooforyou.netlify.app)
+# No Moo For You : [check it out](https://nomooforyou.netlify.app/)
 
 
 ![nomoohome](https://user-images.githubusercontent.com/98113417/221376503-9b083ecd-0d2b-47fa-bea8-44f484b67c77.jpg)
